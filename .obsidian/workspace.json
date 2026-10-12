@@ -14,23 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "PINN_pr_fr/First 5 papers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "First 5 papers"
-            }
-          },
-          {
-            "id": "14abff004514845e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PINN Paper/Real-time capable modeling of ICRF heating on.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Real-time capable modeling of ICRF heating on"
             }
           },
           {
@@ -43,6 +31,16 @@
               },
               "icon": "lucide-file-text",
               "title": "Machine learning enhanced predictions of ICRF heating"
+            }
+          },
+          {
+            "id": "e46904e7ad0f89f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
