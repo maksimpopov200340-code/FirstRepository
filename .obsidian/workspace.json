@@ -11,10 +11,26 @@
             "id": "24cda71a6d69f94a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PINN_pr_fr/First 5 papers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "First 5 papers"
+            }
+          },
+          {
+            "id": "ff50fd443b108199",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PINN Paper/EAST plasma equilibrium reconstruction based on weight-adaptive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EAST plasma equilibrium reconstruction based on weight-adaptive"
             }
           }
         ]
@@ -186,10 +202,11 @@
   },
   "active": "24cda71a6d69f94a",
   "lastOpenFiles": [
+    "PINN Paper/EAST plasma equilibrium reconstruction based on weight-adaptive.pdf",
+    "PINN_pr_fr/First 5 papers.md",
+    "PINN Paper/Leveraging physics-informed neural computing for transport simulations of.pdf",
     "PINN Paper/Grad–Shafranov equilibria via data-free physics informed.pdf",
     "PINN Paper/Physics-informed neural networks A deep learning.pdf",
-    "PINN Paper/Leveraging physics-informed neural computing for transport simulations of.pdf",
-    "PINN_pr_fr/First 5 papers.md",
     "physical training/week-1-training.md",
     "physical training",
     "Новая папка",
@@ -199,7 +216,6 @@
     "PINN_pr_fr/Time table.md",
     "PINN Paper/Machine learning enhanced predictions of ICRF heating.pdf",
     "PINN Paper/Real-time capable modeling of ICRF heating on.pdf",
-    "PINN Paper/Real-time-capable-modeling-of-ICRF-heating-on.pdf",
-    "PINN Paper/Не подтвержден 608992.crdownload"
+    "PINN Paper/Real-time-capable-modeling-of-ICRF-heating-on.pdf"
   ]
 }
